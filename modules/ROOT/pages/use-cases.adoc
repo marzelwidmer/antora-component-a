@@ -1,0 +1,14 @@
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+
+[plantuml,target=ab-embedded-2,format=png]
+....
+include::image$Foo.puml[]
+....
+
+
+
+image::Foo.svg[a diagram illustrating the pipeline stages]
+

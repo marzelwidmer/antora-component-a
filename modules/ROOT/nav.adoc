@@ -1,3 +1,5 @@
+* xref:use-cases.adoc[Use Case]
+* xref:api_resources.adoc[API Documentation]
 * xref:inline-text-formatting.adoc[Basic Inline Text Formatting]
 * xref:special-characters.adoc[Special Characters & Symbols]
 * xref:admonition.adoc[Admonition]

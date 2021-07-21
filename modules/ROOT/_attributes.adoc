@@ -2,3 +2,20 @@
 :examplesdir: {moduledir}/examples
 :imagesdir: {moduledir}/assets/images
 :partialsdir: {moduledir}/pages/_partials
+// Settings
+:idprefix:
+:idseparator: -
+:source-highlighter: rouge
+:source-highlighter: coderay
+:toc: left
+:toclevels: 3
+:doctype: book
+:sectanchors:
+:copyright: ©
+:dot: .
+:ellipsis: …
+:hatch: #
+:pilcrow: ¶
+:star: *
+:tilde: ~
+:ul: _
